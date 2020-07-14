@@ -12,8 +12,8 @@
 * The data for this project was obtained from [Kaggle](https://www.kaggle.com/gdaley/hkracing). The original source of the data from Kaggle is the [Hong Kony Jockey Club](https://racing.hkjc.com/racing/english/index.aspx).
 
 ### Jupyter notebooks
-* Tim: [Module_3_Project_HK_Horse_Racing.ipynb](https://github.com/timhugele/Hong_Kong_Horse_Racing/blob/master/Module_3_Project_HK_Horse_Racing.ipynb)
-* Abzal: [HKHR_Abzal.ipynb](https://github.com/timhugele/Hong_Kong_Horse_Racing/blob/Abzal/HKHR_Abzal.ipynb)
+* Abzal: [HKHR_Abzal.ipynb](https://github.com/xs-abzal/Hong_Kong_Horse_Racing/blob/master/Abzal_Notebook_HKHR.ipynb)
+* Tim: [Module_3_Project_HK_Horse_Racing.ipynb](https://github.com/xs-abzal/Hong_Kong_Horse_Racing/blob/master/Tim%20Hugele/Module_3_Project_HK_Horse_Racing.ipynb)
 
 ### Project Presentation
 * [Google Slides](https://docs.google.com/presentation/d/1equvB3q35yTqE2_hQVRzISJnZNZJ1_PD9xE36v_rqx0/edit?usp=sharing)
