@@ -4,8 +4,8 @@
 
 |Name     |  Github   | 
 |---------|-----------------|
-|[Tim Hugele](https://github.com/timhugele)
 |[Abzal Seitkaziyev](https://github.com/xs-abzal)
+|[Tim Hugele](https://github.com/timhugele)
 
 
 ### Data Source
