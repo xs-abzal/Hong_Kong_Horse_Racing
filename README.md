@@ -30,6 +30,7 @@
 * Which gate you start out of is important
 * Subject Expertise and Feature engineering are important
 * Choose appropriate betting strategy based on model confidence
+![Feature_importance](images/features.png)
 
 ### Initial Results
 * Betting strategy is important.
