@@ -30,7 +30,7 @@
 * Which gate you start out of is important
 * Subject Expertise and Feature engineering are important
 * Choose appropriate betting strategy based on model confidence
-![Feature_importance](images/features.png)
+![Feature_importance](https://github.com/xs-abzal/Hong_Kong_Horse_Racing/blob/master/images/Features.png)
 
 ### Initial Results
 * Betting strategy is important.
